@@ -79,6 +79,8 @@ No obstante, htmlspecialchars() es una medida de escape de salida, no una soluci
 
 
 WEB ESTÁTICA VS DINÁMICA
+
+
 WEB ESTÁTICA
 Una web estática entrega archivos cuyo contenido está preparado previamente, normalmente HTML, CSS y JavaScript.
 
